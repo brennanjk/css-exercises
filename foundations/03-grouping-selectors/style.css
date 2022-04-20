@@ -4,10 +4,5 @@
 }
 
 .second {
-    background-color: hsl(yellow, 100%, 0%);
-}
-
-.first,
-.second {
-    
+    background-color: rgb(255, 253, 128)
 }
