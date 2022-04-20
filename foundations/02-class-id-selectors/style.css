@@ -13,3 +13,9 @@
 .mid-size-font {
     font-size: 24px;
 }
+
+#fourth-line {
+    background-color: rgb(61, 255, 61);
+    font-size: 24px;
+    font-weight: bold;
+}
