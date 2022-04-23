@@ -16,11 +16,13 @@ img {
   display: flex;
   align-items: center;
   flex-direction: column;
+  gap: 2em;
 }
 .container {
-  width: 600px;
+  width: 975px;
   display: flex;
   justify-content: space-around;
+  gap: 2.5em;
 }
 
 /* do not edit this footer */
