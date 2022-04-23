@@ -12,7 +12,13 @@ img {
   font-weight: 900;
 }
 
+.parent-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
 .container {
+  width: 600px;
   display: flex;
   justify-content: space-around;
 }
