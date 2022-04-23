@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .logo {
@@ -26,3 +26,8 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+/*  work in progress
+.left-links {
+  margin-right: auto;
+} */
