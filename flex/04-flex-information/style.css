@@ -12,6 +12,11 @@ img {
   font-weight: 900;
 }
 
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
