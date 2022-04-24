@@ -22,11 +22,16 @@ body {
 .left-links,
 .right-links {
   display: flex;
-  gap: 10px;
+  gap: 20px;
+}
+
+.left-links {
+  margin-left: -20px;
 }
 
 .right-links {
   margin-left: auto;
+  margin-right: 20px;
 }
 
 .content {
