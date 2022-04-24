@@ -36,6 +36,10 @@ body {
   font-size: 20px;
 }
 
+.text {
+  margin: 10px 0 10px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
