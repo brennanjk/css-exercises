@@ -27,6 +27,12 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.inner-container-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
