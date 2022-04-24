@@ -17,6 +17,19 @@ body {
   display: flex;
 }
 
+.left-links,
+.right-links {
+  display: flex;
+}
+
+.right-links {
+  margin-left: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
 img {
   width: 600px;
 }
