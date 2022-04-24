@@ -32,6 +32,8 @@ body {
 .inner-container-1 {
   display: flex;
   justify-content: space-between;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .icon {
