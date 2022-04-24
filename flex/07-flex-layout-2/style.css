@@ -16,11 +16,13 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  margin-top: auto;
 }
 
 .sidebar {
   width: 300px;
   background: royalblue;
+  flex-shrink: 0;
 }
 
 .card {
@@ -31,6 +33,7 @@ body {
 
 .container {
   display: flex;
+  flex: 1;
 }
 
 .card-container {
