@@ -16,6 +16,7 @@ body {
 
 .footer {
   display: flex;
+  background-color: rgb(236, 236, 236);
 }
 
 .left-links,
@@ -40,6 +41,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: rgb(29, 29, 29);
 }
 
 img {
